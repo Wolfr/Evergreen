@@ -45,6 +45,8 @@ code, pre {
 }
 pre  {
 	white-space: pre-wrap;
+	background: #EEE;
+	padding: 20px;
 }
 img {
 	max-width: 100%;
